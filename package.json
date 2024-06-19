@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/blas-base-transpose-operation-enum2str": "github:stdlib-js/blas-base-transpose-operation-enum2str#main",
-    "@stdlib/blas-base-transpose-operation-str2enum": "github:stdlib-js/blas-base-transpose-operation-str2enum#main"
+    "@stdlib/blas-base-transpose-operation-str2enum": "github:stdlib-js/blas-base-transpose-operation-str2enum#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.1",
