@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operation-resolve-enum@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operation-resolve-enum@v0.0.1-deno/mod.js';
 ```
 
 #### resolve( operation )
@@ -101,7 +101,7 @@ var v = resolve( 'beep' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operation-resolve-enum@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operation-resolve-enum@v0.0.1-deno/mod.js';
 
 var v = resolve( 'conjugate-transpose' );
 // returns <number>
